@@ -1,7 +1,7 @@
 # Bilal is the auftor
 
 def my_superfunction():
-    print('What allllwesome print!')
+    print('Hello pycharm')
 
 
 def main():
